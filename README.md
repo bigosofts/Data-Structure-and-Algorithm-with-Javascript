@@ -9,7 +9,6 @@ Welcome to the **Data Structure and Algorithm with JavaScript Practice Project**
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Author](#author)
 
 ## Introduction
