@@ -32,18 +32,13 @@ cd Data-Structure-and-Algorithm-with-Javascript-Practice-Project
 You can install any necessary dependencies (if any) using npm or yarn:
 
 bash
-Copy code
-npm install
-# or
-yarn install
+node index.js
+
 Usage
 You can explore and run the different data structures and algorithms by navigating through the project files. Each implementation is self-contained and can be tested independently.
 
 To run a specific file, use the following command:
 
-bash
-Copy code
-node path/to/your/file.js
 Contributing
 Contributions are welcome! If you have any improvements, bug fixes, or new implementations, feel free to open an issue or submit a pull request. Please ensure that your code follows the project's coding standards and is well-documented.
 
